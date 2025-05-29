@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline:opsz,wght@10..72,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+.courier-prime-regular {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.fredoka {
+  font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: lighter;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.gruppo-regular {
+  font-family: "Gruppo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.big-shoulders-inline {
+  font-family: "Big Shoulders Inline", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+.dosis {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+
+
+
+.into{
+  display: flex ;
+    background: black;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.bord{
+  color: antiquewhite;
+    border: 2px solid antiquewhite;
+    width: 96vw;
+    height: 96vh;
+    display: flex;
+    overflow: hidden;
+
+}
+.headName{
+  position: absolute;
+  top: 5px;
+  left: 30px;
+}
+.appName{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  font-size: 5em;
+}
+
+
+::-webkit-scrollbar {
+  width: 0; /* Для вертикального скроллбара */
+  height: 0; /* Для горизонтального скроллбара */
+}
+
+/* Также можно скрыть дорожку (фон скроллбара), чтобы сделать его невидимым */
+::-webkit-scrollbar-track {
+  background: transparent; /* Сделать дорожку прозрачной */
+}
