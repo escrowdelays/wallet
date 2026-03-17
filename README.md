@@ -1,6 +1,8 @@
 # About the project
 
-The app helps you save money. You set a target amount, choose a comfortable schedule, and define your regular deposit. It is impossible to withdraw your funds until the full target amount is reached. If you miss a payment, you lose everything you’ve saved.
+The app helps you save money through immutable blockchain obligations. You choose the target amount, define a comfortable schedule and regular contribution, and begin saving voluntarily. It is impossible to withdraw funds before the target goal is met. If you fail to make a deposit on time, all accumulated savings will be lost.
+
+
 
 
 
