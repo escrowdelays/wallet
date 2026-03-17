@@ -52,6 +52,15 @@ The logic of smart contracts and the client side is completely open.
 The platform has no access to your funds. All assets are stored exclusively on the balances of your personal NFT contracts and are managed by the math of the TON blockchain.
 
 ---
+## Smart Contract Addresses
+
+### Collection
+
+EQBJot0EQ6_w8h7-089dwKtYG-uvFAo46zZGThCWc-MKP5Sg
+
+### Marketplace
+
+EQCrJ46UxBH9RKRPaxkFwHTjG4e6kwSuDn_MR88joEZKapo9
 
 
 
