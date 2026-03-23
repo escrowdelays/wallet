@@ -65,6 +65,7 @@ EQCrJ46UxBH9RKRPaxkFwHTjG4e6kwSuDn_MR88joEZKapo9
 
 
 ## 📬 Contact
-- **Dapp:** [https://escrowdelays.com](https://escrowdelays.com)
-- **Telegram:** [https://t.me/escrowdelays](https://t.me/escrowdelays)
+- **Demo:** [youtube.com](https://youtube.com/shorts/LB9HCbvPFNA)  
+- **Dapp:** [escrowdelays.com](https://escrowdelays.com)
+- **Telegram:** [@escrowdelays](https://t.me/escrowdelays)
 - **Email:** [stephenescrow@gmail.com](mailto:stephenescrow@gmail.com)
