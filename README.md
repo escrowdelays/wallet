@@ -64,7 +64,6 @@ EQCrJ46UxBH9RKRPaxkFwHTjG4e6kwSuDn_MR88joEZKapo9
 
 
 
-## 📬 Contact
 - **Demo:** [youtube.com](https://youtube.com/shorts/LB9HCbvPFNA)  
 - **Dapp:** [escrowdelays.com](https://escrowdelays.com)
 - **Telegram:** [@escrowdelays](https://t.me/escrowdelays)
